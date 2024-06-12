@@ -47,3 +47,26 @@ h1 {
 .controls {
     margin-top: 20px;
 }
+
+.selected {
+    background-color: #d1ecf1;
+}
+
+.correct {
+    background-color: green;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.result {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
+.score {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #333;
+}
