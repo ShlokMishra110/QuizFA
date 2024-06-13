@@ -6,6 +6,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url("https://www.shutterstock.com/image-photo/question-mark-on-blue-background-260nw-1595492578.jpg");
+    background-size: cover;
 }
 
 .container {
@@ -15,15 +17,14 @@ body {
     width: 400px;
     padding: 20px;
     text-align: center;
-}
-
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSd_mt66TmvceOysu8VAuZZtT1RWM-DnI3zQ&s");
 h1 {
     margin: 0 0 20px;
 }
 
 .btn {
-    background-color: #007bff;
-    color: white;
+    background-color: #ff0000;
+    color: rgb(255, 255, 255);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
